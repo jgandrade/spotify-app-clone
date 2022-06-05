@@ -1,0 +1,21 @@
+.container-login{
+    display: grid;
+    place-items: center;
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+    border-radius: 5em;
+    background: #20b46e;
+    color: white;
+    width: 5em;
+    padding: 1em 2em;
+    font-weight: bold;
+    transition: all 0.3s ease-in;
+}
+
+a:hover{
+    background: #1a975d;
+    color: white;
+}
